@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=welcome%20&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=welcome%20&fontSize=90) -->
+<h3 align="center">안녕하세요!🖐️</h3> 
 
 <h3 align="center">Main</h3>
 <div align="center">
